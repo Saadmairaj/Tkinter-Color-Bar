@@ -1,6 +1,11 @@
 # Tkinter-Color-Bar
 Modern Color Bar for Tkinter GUI 
 
+## Screenshot
+<p align="center">
+  <img src="https://github.com/Saadmairaj/Tkinter-Color-Bar/blob/master/Screenshot.png" width="350" height="300">
+</p>
+
 ## Description
 The Tkinter Color Bar returns HEX or RGB values that can be used in graphical user interface applications.
 
