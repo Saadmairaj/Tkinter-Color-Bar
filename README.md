@@ -1,5 +1,5 @@
 # Tkinter-Color-Bar
-Modern Color Bar for Tkinter GUI 
+Modern Color Bar wigdet for Tkinter GUI 
 
 ## Screenshot
 <p align="center">
