@@ -4,7 +4,7 @@ Modern Color Bar widget for Tkinter GUI
 ## Screenshot
 Run demo.py to test 
 <p align="center">
-  <img src="https://github.com/Saadmairaj/Tkinter-Color-Bar/blob/master/Screenshot.png" width="350" height="300">
+  <img src="https://github.com/Saadmairaj/Tkinter-Color-Bar/blob/master/Tkintercolorbar.gif" width="350" height="300">
 </p>
 
 ## Description
