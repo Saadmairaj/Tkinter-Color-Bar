@@ -1,6 +1,8 @@
 # Tkinter-Color-Bar
 Modern Color Bar widget for Tkinter GUI 
 
+_(this package is no more maintained and moved to [tkmacosx](https://github.com/Saadmairaj/tkmacosx#colorscale-widget) library with a more stable release)_
+
 ## Screenshot
 Run demo.py to test 
 <p align="center">
